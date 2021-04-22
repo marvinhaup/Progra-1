@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601476508 source:c:\users\marvin\documents\codeblocks\progra 1\uebung3aufgabe7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

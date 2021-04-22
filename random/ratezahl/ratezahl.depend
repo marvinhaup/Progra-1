@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1594238474 source:e:\studium\ss 2020\progra 1\übungen\ratezahl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
