@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1593618882 source:c:\users\campus\desktop\programmierung1\rpgprojektarray\main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
